@@ -86,6 +86,7 @@ background-color: #3f3f3f;
 p {
     margin-bottom: 40px;
     font-size: 18px;
+    padding: 0 100px;
 }
 
 .btn {
@@ -125,4 +126,29 @@ p {
     justify-content: center;
     flex-wrap: wrap;
     
+}
+
+.box-container .box {
+
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+.about {
+    background-color: #171717;
+
+}
+
+.price{
+    background: url(costos.jpg) no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+.contact {
+    padding-top: 20px;
+    background: #171717;
+    padding-bottom: 0%;
+
 }
