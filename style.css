@@ -70,7 +70,7 @@ background-color: #3f3f3f;
     align-items: center;
 }
 
-.header {
+.header{
     height: 60vh !important;
     background: url(img/header.jpg) no-repeat center;
     background-size: cover;
